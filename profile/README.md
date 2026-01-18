@@ -1,4 +1,25 @@
-## Hi there 👋
+## Sveiki 👋
+
+Pagrindas:
+
+
+[https://go.dev/](https://go.dev/)
+
+[https://data-star.dev](https://data-star.dev/)
+
+[https://nats.io](https://nats.io/)
+
+[https://sqlite.com](https://sqlite.org/)
+
+
+Pagalbiniai įrankiai:
+
+
+[https://templ.guide/](https://templ.guide/)
+
+[https://gorm.io/](https://gorm.io/)
+
+
 
 <!--
 
